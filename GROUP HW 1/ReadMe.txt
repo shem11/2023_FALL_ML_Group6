@@ -17,7 +17,7 @@ To run the code, you'll need the following dependencies:
 You can install the dependencies using pip:
 
 ```bash
-pip install scikit-learn matplotlib
+pip install scikit-learn matplotlib seaborn pandas
 
 Evaluation of K Values
 We performed KNN classification for K values ranging from 1 to 20, repeating the process at least five times for each K to calculate the average accuracy. The line chart displays the trend in average accuracy as K varies.
