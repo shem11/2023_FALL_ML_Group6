@@ -17,7 +17,7 @@ The best k-value was found to be k=4 through using our elbow graph.
 ![Elbow](elbow.png)
 
 ## The best K accuracy
-Our best K (k=4) has a distorion score of about 520 out of 3000 which is relatively low. Additionally, k=4 is generally where the elbow graph begins to flatten, meaning it is more likely to be optimal.
+Our best K (k=4) has a distorion score of about 250 out of 3000 which is relatively low. Additionally, k=4 is generally where the elbow graph begins to flatten, meaning it is more likely to be optimal.
 
 
 ## Insert a confusion matrix for the best K
