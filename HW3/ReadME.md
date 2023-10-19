@@ -11,8 +11,8 @@ Run the following command in the termainal to install all dependencies:
 `pip3 install scikit-learn numpy matplotlib scipy`
 
 PLOT:
-![Plot](Screenshot 2023-10-19 at 7.29.04 PM.png)
+![Plot](plot.png)400
 
 
 Linear Regression:
-![LR]()
+![LR](regression.png)
