@@ -39,7 +39,7 @@ We implemented three different regression models: Linear Regression, Ridge Regre
 
 - Cross-validation score: 0.87 
 
-- Alpha value: 0.1 
+- Alpha value:  2.782559402207126 
 
  
 
@@ -47,7 +47,7 @@ We implemented three different regression models: Linear Regression, Ridge Regre
 
 - Cross-validation score: 0.89 
 
-- Alpha value: 0.001 
+- Alpha value:  2.782559402207126 
 
  
 
