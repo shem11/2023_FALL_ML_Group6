@@ -13,5 +13,5 @@
 
 
 ## Accuracy and (accuracy/number of features)
-Mean Accuracy across Features: 0.7173758865248228
-Accuracy: 0.9613724576929048
+- Mean Accuracy across Features: 0.7173758865248228
+- Accuracy: 0.9613724576929048
